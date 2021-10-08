@@ -37,7 +37,6 @@ module.exports.defaultTimezoneSet = [
         id: 0, text: 'Africa',
         children: [
             { offset: '+00:00', text: '(GMT+00:00) Africa/Abidjan', id: 'Africa/Abidjan', category: 'Africa' },
-            { offset: '+00:00', text: '(GMT+00:00) Africa/Abidjan', id: 'Africa/Abidjan', category: 'Africa' },
             { offset: '+00:00', text: '(GMT+00:00) Africa/Accra', id: 'Africa/Accra', category: 'Africa' },
             { offset: '+03:00', text: '(GMT+03:00) Africa/Addis_Ababa', id: 'Africa/Addis_Ababa', category: 'Africa' },
             { offset: '+01:00', text: '(GMT+01:00) Africa/Algiers', id: 'Africa/Algiers', category: 'Africa' },
