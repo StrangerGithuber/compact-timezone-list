@@ -34,6 +34,7 @@
  */
 module.exports.defaultTimezoneSet = [
     {
+        id: -1, text: 'Choose your timezone', disabled: true,
         id: 0, text: 'Africa',
         children: [
             { offset: '+00:00', text: '(GMT+00:00) Africa/Abidjan', id: 'Africa/Abidjan', category: 'Africa' },
