@@ -5,10 +5,6 @@
   "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
-  "exports": {
-    "require": "./index.js",
-    "import": "./esm/esm.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/filipdanic/compact-timezone-list.git"
