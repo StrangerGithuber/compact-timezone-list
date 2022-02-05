@@ -28,6 +28,8 @@ export interface TimezoneEntry {
     offset: string;
     /** a readable label that contains the offset and a longer, descriptive name of the timezone */
     label: string;
+    /** id of the timezone */
+    id: string;
     /** the value from the tz standard */
     tzCode: string;
 }
