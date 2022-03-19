@@ -29,7 +29,7 @@
  *  western-focused apps. But, every UTC offset is included.
  */
 
-import cjsModule from '../index.js';
+const cjsModule = require('../index.js');
 
 export default cjsModule.defaultTimezoneSet;
 export var defaultTimezoneSet = cjsModule.defaultTimezoneSet;
