@@ -27,11 +27,11 @@ export interface TimezoneEntry {
     /** a string from '-11:00' to '+14:00' representing the UTC offset */
     offset: string;
     /** a readable label that contains the offset and a longer, descriptive name of the timezone */
-    label: string;
+    text: string;
     /** id of the timezone */
     id: string;
     /** the value from the tz standard */
-    tzCode: string;
+    category: string;
 }
 
 export declare var defaultTimezoneSet: TimezoneEntry[];
