@@ -3,10 +3,10 @@
   "version": "2.0.0",
   "description": "Array of timezones with their labels, tz code, and UTC/GMT offsets.",
   "type": "module",
-  "main": "index.js",
+  "main": "index.cjs",
   "types": "index.d.ts",
   "exports": {
-    "require": "./index.js",
+    "require": "./index.cjs",
     "import": "./esm/esm.js"
   },
   "repository": {
