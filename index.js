@@ -32,7 +32,7 @@
  *
  * @type {Array.<{ offset: string, text: string, id: string }>}
  */
-export default [
+export default = [
     {
         id: -1, text: 'Choose your timezone', disabled: true,
     },
