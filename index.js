@@ -517,7 +517,7 @@ export default [
  *
  * @type {Array.<{ offset: string, text: string, id: string }>}
  */
-module.exports.minimalTimezoneSet = [
+export var minimalTimezoneSet = [
     { offset: '-11:00', text: '(GMT-11:00) Pago Pago', id: 'Pacific/Pago_Pago', category: 'Pacific' },
     { offset: '-10:00', text: '(GMT-10:00) Hawaii Time', id: 'Pacific/Honolulu', category: 'Pacific' },
     { offset: '-10:00', text: '(GMT-10:00) Tahiti', id: 'Pacific/Tahiti', category: 'Pacific' },
