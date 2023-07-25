@@ -18,8 +18,12 @@ yarn add compact-timezone-list
 ```javascript
  import timezones from 'compact-timezone-list';
  // or
- import { minimalTimezoneSet } from 'compact-timezone-list';
+ import { defaultTimezoneSet, minimalTimezoneSet } from 'compact-timezone-list';
 ```
+
+## Compatible
+It is compatible with the select2 package: https://select2.org/
+Last tested at 2023.07.25 .
 
 ## Details
 
