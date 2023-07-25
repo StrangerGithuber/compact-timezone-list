@@ -23,6 +23,7 @@ yarn add compact-timezone-list
 
 ## Compatible
 It is compatible with the select2 package: https://select2.org/
+
 Last tested at 2023.07.25 .
 
 ## Details
