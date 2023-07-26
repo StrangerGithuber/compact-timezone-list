@@ -43,3 +43,4 @@ Donation possibilities:
 | Buy me a coffee | [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kynarnetwork)                                                 |
 | Coinbase        | [!["Donate with crypto"](https://nfg-sofun.s3.amazonaws.com/uploads/redactor_rails/picture/data/73379/Donate_Crypto_Button.png)](https://commerce.coinbase.com/checkout/d07a3a58-435a-4827-adeb-8f0214d460d3)              |
 | Ko-fi           | [!["Ko-fi"](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/kynarnetwork) |
+| Patreon           | [!["Patreon"](https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67)]([https://ko-fi.com/kynarnetwork](https://www.patreon.com/KynarNetwork)) |
